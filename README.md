@@ -1,6 +1,6 @@
 ![poster](poster.png)
 # Loops Bootcamp
-**En med hög övningar för att träna på loopar.**
+**En hög med övningar för att träna på loopar.**
 
 ## Classic For loops
 
